@@ -6,7 +6,6 @@ project. This was forked from version 6.1 (git commit 7dba0c4bccf88740c56867568d
 To install simply download the files and open a terminal in the extracted directory
 and execute:
 
- mkdir build
  cd build
  cmake ..
  make

@@ -1,6 +1,7 @@
 #CMake file for LV2 Versions of Rakarrack Effects
 
-cmake_minimum_required(VERSION 2.6)
+cmake_minimum_required(VERSION 3.10)
+project(rkrlv2)
 
 #rename these files so they are easier to use for plugins
 SET( RVB x;Chamber;Concrete_Stairwell;Hall;Med_Hall;Large_Room;Large_Hall;Guitar_Ambience;Studio;Twilight;Santa_Lucia )
